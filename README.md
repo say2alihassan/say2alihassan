@@ -1,32 +1,38 @@
-# Hi, I'm Ali Hassan 👋🚀
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Banner" />
+</p>
 
-Senior Full-Stack **React Native & Web Developer** with 5+ years of experience building
-high-performance mobile apps and scalable web platforms 💻📱
+<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
+<h3 align="center">Senior Full-Stack React Native & Web Developer</h3>
 
-I specialize in turning product ideas into **polished, production-ready applications**
-that users love and businesses trust 🎯✨
 
----
-
-## 🧠 What I Do Best
-
-- 📱 **Mobile Apps** — React Native (Expo), iOS & Android
-- 🌐 **Web Apps** — React, Next.js, TypeScript
-- ⚙️ **Backend** — Node.js, Firebase, REST APIs
-- 🗄️ **Databases** — Firebase, SQL, NoSQL
-- 🎨 **UI/UX** — Clean UI, smooth UX, performance-focused
-- 🚀 **Product Thinking** — Launch, onboarding, retention
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=say2alihassan&show_icons=true&theme=dark" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
+- 📱 Senior **React Native (Expo)** developer
+- 🌐 Full-stack **Web Developer (React / Next.js)**
+- ⚙️ Strong backend experience with **Node.js & Firebase**
+- 🚀 Focused on **performance, scalability & clean architecture**
+- 🧠 Product-driven mindset (onboarding, retention, growth)
 
-**Frontend**
+---
+
+### 🛠 Tech Stack
+**Mobile**
 - React Native (Expo)
-- React / Next.js
 - TypeScript / JavaScript
+- Redux / Zustand
 
-**Backend**
+**Web**
+- React.js
+- Next.js
+- Tailwind CSS
+
+**Backend & Cloud**
 - Node.js
 - Firebase (Auth, Firestore, Functions)
 - REST APIs
@@ -34,35 +40,29 @@ that users love and businesses trust 🎯✨
 **Tools**
 - Git & GitHub
 - CI/CD
-- App Store & Play Store deployment
+- App Store & Play Store Deployment
 
 ---
 
-## 🏆 Experience Highlights
-
-- 🚀 Built and launched multiple **production mobile apps**
-- 📈 Improved **app performance, onboarding & retention**
-- 🤝 Worked with startups & clients globally
-- 🧩 Strong understanding of **business + engineering**
+### 📌 Featured Work
+- 📱 Subscription-based mobile apps
+- 🧩 Scalable dashboards & admin panels
+- 🔐 Auth, payments, analytics, push notifications
 
 ---
 
-## 📌 Featured Projects
-
-- 📱 **AI Chat App** — React Native + Firebase  
-- 🧩 **Fitness App** — Expo, Firebase, clean architecture  
-- 🌐 **Admin Dashboards** — React, APIs, analytics  
-
-👉 Check my repositories below 👇
+### 🌱 Currently
+- Improving product performance & UX
+- Building scalable mobile architectures
+- Helping startups launch faster
 
 ---
 
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: *(add your link)*
-- 🧑‍💻 GitHub: https://github.com/yourusername
-- ✉️ Email: *(optional)*
+### 📫 Connect With Me
+- 💼 Portfolio: **YOUR_PORTFOLIO_LINK**
+- 💬 LinkedIn: **YOUR_LINKEDIN_LINK**
+- 📧 Email: **YOUR_EMAIL**
 
 ---
 
-⭐ If you like my work, feel free to star ⭐ my repositories!
+⚡ **Fun fact:** I care more about clean architecture than flashy UI 😉
