@@ -66,9 +66,9 @@ I typically work with:
 
 I’m open to **freelance, contract, and long-term collaborations**.
 
-- 💼 Portfolio: **Add your link**
-- 💬 LinkedIn: **Add your link**
-- 📧 Email: **Add your email**
+- 💼 Portfolio: say2alihassan.netlify.app
+- 💬 LinkedIn: https://www.linkedin.com/in/ali-hassan-full-stack/
+- 📧 Email: ali.hassan.sulehree@gmail.com
 
 ---
 
